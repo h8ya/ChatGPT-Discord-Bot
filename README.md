@@ -4,7 +4,7 @@ made by h8ya
 
 npm files used
 - npm i openai
-- npm i discord.js
+- npm i discord.js@12.5.3
 - npm i dotenv
 
 OPENAI
