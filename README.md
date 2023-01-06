@@ -1,2 +1,28 @@
 # Passion-Projects
 hit awakening
+made by h8ya
+
+npm files used
+npm i openai
+npm i discord.js
+npm i dotenv
+
+OPENAI
+Generate an OPENAI api key
+https://beta.openai.com/account/api-keys
+
+DISCORD
+Create a bot with the following permissions, generate your bot Token
+https://discord.com/developers/applications
+- Read/Send Messages
+- Manage Messages
+- Read Message History
+- Embed Links
+- Attach Files
+
+On bot permissions in Discord Developer portal, make sure the following permissions are turned on:
+Permission Intent
+Server Members Intent
+Message Content Intent
+
+It has the ability to act as a wormhole into every language and will sometimes spit out gibberish. Quite facinating!
