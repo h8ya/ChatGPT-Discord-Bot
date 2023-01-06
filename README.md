@@ -3,9 +3,9 @@ OpenAi ChatGPT API integrated into a Discord Bot
 made by h8ya
 
 npm files used
-npm i openai
-npm i discord.js
-npm i dotenv
+- npm i openai
+- npm i discord.js
+- npm i dotenv
 
 OPENAI
 Generate an OPENAI api key
