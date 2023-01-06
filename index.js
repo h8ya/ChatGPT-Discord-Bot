@@ -11,11 +11,7 @@ require('dotenv').config();
 const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY,
 });
-
 const openai = new OpenAIApi(configuration);
-
-require('dotenv').config();
-
 
 //Both
 client.on("ready", () => {
@@ -34,10 +30,6 @@ client.on("message", msg => {
         let body = response.data;
         let output = body.choices[0].text;
         console.log(output);
-        msg.channel.send(output)
-        
+        msg.channel.send(output)    
     })();
-   
-  
 })
-
