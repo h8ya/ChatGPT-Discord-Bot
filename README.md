@@ -1,5 +1,5 @@
-# ChatGPT-Discord-Bot
-OpenAi ChatGPT API integrated into a Discord Bot
+# GPT3-Discord-Bot
+OpenAi GPT3 API integrated into a Discord Bot
 made by h8ya
 
 npm files used
