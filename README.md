@@ -21,7 +21,7 @@ https://discord.com/developers/applications
 - Attach Files
 
 On bot permissions in Discord Developer portal, make sure the following permissions are turned on:
-Permission Intent
+Presence Intent
 Server Members Intent
 Message Content Intent
 
